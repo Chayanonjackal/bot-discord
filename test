@@ -1,0 +1,2 @@
+    //   text+=fs.readFileSync("./logs/" + name, "utf16le");
+    //   client.guilds.cache.get('866589494781018122').channels.cache.get('872125832469020693').send("```"+text+'```');
